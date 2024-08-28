@@ -1,0 +1,61 @@
+@startuml
+class person{
+'nama : string
+'age : int
++getname() : string
++get age() : int
+}
+class teacher{
+'employeID :string
++getemployeID() : string
+}
+class student{
+'studentID : string
+}
+person<|--student
+person<|--teacher
+
+class manusia{
+Nama person
+Umur person
+}
+class guru{
+edi
+25
+}
+@startuml
+class person{
+'nama : string
+'age : int
++getname() : string
++get age() : int
+}
+class teacher{
+'employeID :string
++getemployeID() : string
+}
+class student{
+'studentID : string
+}
+person<|--student
+person<|--teacher
+
+class manusia{
+Nama person
+Umur person
+}
+class guru{
+edi
+25
+}
+
+
+class siswa{
+dedi
+12
+}
+
+manusia<|--siswa
+manusia<|--guru
+
+@enduml
