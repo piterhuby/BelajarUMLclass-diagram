@@ -1,0 +1,2 @@
+![VOyzhi9038HxdsAxl2UK2qGKAMXew3Y0bLXBf5qdsfy21UwE1LRaDEdiiMVykSy5Kwanm10mPxTGoZElq316T9tB9KtieK5FqarSuEIfo93-_hVnLtFeHTEbjyOLmk51IV8eBc5-qlNYEcFQL9kcPcdhI5p4h9MOpT8FzVngMnqRHU-29aNacYTSuOOHzK](https://github.com/user-attachments/assets/928b028c-bef5-4064-9c12-4a77a49a2003)
+ini adalah contoh kelas diagram
